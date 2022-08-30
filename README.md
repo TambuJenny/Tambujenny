@@ -1,5 +1,8 @@
 <h1 align="left">🪐 Sou Tambu Jenny</h1>
-<h5 align="left">O meu mundo, a minha paixão. Estou deixando você me conhecer, e por que não me puxar para um papo 😍. <br> Será um prazer partilharmos conhecimento desse mundo que nos uni.</h5>
+<h5 align="left">O meu mundo, a minha paixão. Estou deixando você me conhecer, e por que não me puxar para um papo 😍. <br> Será um prazer partilharmos conhecimento desse mundo que nos uni.
+</h5>
+<hr>
+<h5>Desenvolvedor full-stack com experiência em desenvolvimento back-end, front-end . Hábilidade em HTML, CSS e JavaScript, .Net Core, Spring Boot, C# e Java.</h5>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambujenny&label=Profile%20views&color=0e75b6&style=flat" alt="tambujenny" /> </p>
